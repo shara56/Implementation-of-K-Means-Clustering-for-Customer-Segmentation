@@ -81,11 +81,15 @@ plt.title("Customer segments")
 ## Output:
 
 data.head() function
+
 ![51](https://github.com/hariprasath5106/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/111515488/a80dbcda-cb89-4a5d-9e21-d0ad0baf8a3e)
+
 data.info
+
 ![52](https://github.com/hariprasath5106/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/111515488/f9551193-8ad0-4d10-8170-f5e94c2ac634)
 
 data.isnull().sum() function
+
 ![54](https://github.com/hariprasath5106/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/111515488/b764e2fb-1fcf-41c1-b499-c6b3433aac97)
 
 ### Elbow Method Graph
